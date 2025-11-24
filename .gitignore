@@ -1,0 +1,12 @@
+#ignore cache files and folders
+**/__pycache__/
+**/desktop.ini
+
+#ignore the working CSV and Excel files
+dragon.txt
+dragon.xlsx
+
+
+
+
+
